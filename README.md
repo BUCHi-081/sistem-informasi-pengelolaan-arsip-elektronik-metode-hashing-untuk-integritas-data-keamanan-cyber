@@ -2,8 +2,7 @@ proyek Python sederhana yang berfokus pada proses hashing file menggunakan algor
 
 **Menghasilkan hash** dari file dengan cepat dan aman.  
 **Mengunggah file** ke aplikasi untuk langsung diproses.  
-**Antarmuka GUI** (Graphical User Interface) yang memudahkan interaksi tanpa perlu command line.  
-**Pencatatan hasil hash** agar dapat digunakan kembali meskipun aplikasi ditutup.  
+**Antarmuka GUI** (Graphical User Interface) yang memudahkan interaksi.   
 
 ## Fitur Utama
 - Fungsi **generate_hash**: menghasilkan hash SHA-256 dari file input.  
