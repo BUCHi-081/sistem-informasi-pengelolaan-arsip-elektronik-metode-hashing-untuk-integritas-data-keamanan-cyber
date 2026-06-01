@@ -1,3 +1,7 @@
+projek mata kuliah struktur data dan algoritma beranggotakan :
+1. Dicky Zidhan Afriansyah (25031554227)
+2. Dicky Alviano (25031554227)
+   
 proyek Python sederhana yang berfokus pada proses hashing file menggunakan algoritma **SHA-256**. Proyek ini dirancang untuk mempermudah pengguna dalam:
 
 **Menghasilkan hash** dari file dengan cepat dan aman.  
